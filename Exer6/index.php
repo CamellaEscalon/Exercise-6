@@ -17,7 +17,7 @@
     <main>
         <h2>UPDATED ARTWORKS</h2>
         <div class="artwork">
-            <img src="trees.jpg" alt="Artwork 1">
+            <img src="tree.jpg" alt="Artwork 1">
             <p><strong>Title:</strong> Tree <br><strong>Artist:</strong> Janna Roldan</p>
         </div>
         <div class="artwork">
